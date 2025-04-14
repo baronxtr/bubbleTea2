@@ -24,6 +24,13 @@ a {
     cursor: pointer;
     color: white; }
 
+.game-popup iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  transform: scale(0.75); /* Zoom out to 75% */
+  transform-origin: center center;
+}
 .main {
   --width_cup: 150px;
   --height_cup: 220px;
