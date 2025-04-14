@@ -28,7 +28,7 @@ a {
   width: 100%;
   height: 100%;
   border: none;
-  transform: scale(0.75); /* Zoom out to 75% */
+  transform: scale(0.50); /* Zoom out to 75% */
   transform-origin: center center;
 }
 .main {
